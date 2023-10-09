@@ -2,8 +2,7 @@ import Tours from "./Tours";
 
 export default function App() {
   return (
-    <main>
-      <h1>Our Tours</h1>
+    <main className="my-16">
       <Tours />
     </main>
   );
